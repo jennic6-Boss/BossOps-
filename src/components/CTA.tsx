@@ -28,9 +28,14 @@ const CTA = () => {
               </Button>
               
               <Button variant="outline" size="lg" className="font-heading text-lg px-12 py-7 h-auto rounded-full border-2 border-background bg-transparent text-background hover:bg-background hover:text-primary transition-all duration-300" asChild>
-                <a href="#free-tool">
-                  Grab My Free AI Starter Kit →
-                </a>
+               <a
+  href="https://github.com/jennic6-Boss/brand-social-snap"
+  target="_blank"
+  rel="noopener noreferrer"
+>
+  Free AI Starter Kit →
+</a>
+
               </Button>
             </div>
             
@@ -45,7 +50,7 @@ const CTA = () => {
               <div className="bg-background/10 backdrop-blur-sm p-2 rounded-full">
                 <Phone className="w-5 h-5" />
               </div>
-              <a href="tel:+13852275229" className="font-body text-lg hover:text-accent transition-colors">720-434-2911</a>
+              <a href="tel:+17204342911" className="font-body text-lg hover:text-accent transition-colors">720-434-2911</a>
             </div>
             <div className="flex items-center gap-3">
               <div className="bg-background/10 backdrop-blur-sm p-2 rounded-full">
