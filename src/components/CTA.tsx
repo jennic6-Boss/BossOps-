@@ -28,14 +28,13 @@ const CTA = () => {
               </Button>
               
               <Button variant="outline" size="lg" className="font-heading text-lg px-12 py-7 h-auto rounded-full border-2 border-background bg-transparent text-background hover:bg-background hover:text-primary transition-all duration-300" asChild>
-         <a
+     <a
   href="https://github.com/jennic6-Boss/brand-social-snap"
   target="_blank"
   rel="noopener noreferrer"
 >
   Grab My Free AI Starter Kit →
 </a>
-
               </Button>
             </div>
             
