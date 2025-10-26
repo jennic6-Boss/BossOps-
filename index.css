@@ -1,3 +1,17 @@
+/* Import fonts */
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@400;600;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display:wght@700&display=swap');
+
+/* Replace Playfair with The Seasons if you upload your licensed font later */
+
+/* Set your heading and body fonts */
+h1, h2, h3, h4, h5, .font-heading {
+  font-family: 'Playfair Display', serif; /* placeholder for The Seasons */
+}
+
+body, p, li, span, button, .font-body {
+  font-family: 'Montserrat', sans-serif;
+}
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
