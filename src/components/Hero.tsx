@@ -18,14 +18,15 @@ const Hero = () => {
         <div className="text-center max-w-5xl mx-auto py-12">
           {/* Main heading */}
           <h1 className="font-heading text-5xl md:text-7xl font-bold mb-8 leading-tight">
-            <span className="block text-accent">From Chaos to Confidence</span>
-            <span className="block text-background mt-2">Structure + AI = Freedom to Focus</span>
-          </h1>
+  <span className="block text-accent">The Uncomplicated Advantage for Growing Businesses</span>
+  <span className="block text-background mt-2">The BossOps Blueprint: Structure + AI = Scale</span>
+</h1>
 
-          {/* Subheadline */}
-          <p className="font-body text-xl md:text-2xl text-background/95 mb-14 font-light leading-relaxed max-w-4xl mx-auto">
-            Reclaim 10-40 hours every month with systems that actually work—so you can focus on growing your business, creativity and human connection.
-          </p>
+{/* Subheadline */}
+<p className="font-body text-xl md:text-2xl text-background/95 mb-14 font-light leading-relaxed max-w-4xl mx-auto">
+  I built AI-powered systems that gave me back my time. Now, I’m helping entrepreneurs reclaim 10–40 hours every month to focus on creativity, human connection, and growth.
+</p>
+
 
           {/* CTA Buttons */}
           <div className="space-y-8">
